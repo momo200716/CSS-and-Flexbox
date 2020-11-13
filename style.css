@@ -1,0 +1,25 @@
+h1 {
+    color: brown;
+}
+
+.header{
+    background-color: aqua;
+    display : flex;
+    justify-content:space-evenly
+}
+.menu{
+    background-color: bisque;
+}
+.menu p{
+    background-color: coral;
+    text-align: center;
+}
+.images{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
